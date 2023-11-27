@@ -35,7 +35,7 @@ class AntiPhishingApp(ctk.CTk):
 
         if username == "13902972" and password == "test":
             self.initialize_tool(username)
-            self.geometry("650x500")
+            self.geometry("700x500")
         else:
             messagebox.showerror("Login Failed", "Incorrect Employee ID or password.")
 
