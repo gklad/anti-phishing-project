@@ -8,8 +8,8 @@ Before running the application, ensure you have Python installed on your device.
 
 ## Installation
 
-### Step 1: Clone the Repository
-Download the files
+### Step 1: Download the .zip folder
+Download the repository files 
 
 ### Step 2: Extract and Navigate to the Application Directory
 
@@ -17,17 +17,17 @@ Extract the .zip file first, and use the command line to navigate to the directo
 
 **cd path/to/desktop/Educative-Anti-Phishing-Application**
 
-### Step 3: Install Required Libraries
+### Step 3: Install Required Library
 
 The application uses the customtkinter library for its GUI. Install it using pip:
 
 **pip install customtkinter**
 
+### Using the Application
+
 Once the setup is complete, you can start the application using Python. Ensure you are in the directory containing phishing.py and questions.py.
 
 **python application.py**
-
-### Using the Application
 
 Login: On launching the application, you'll be prompted with a login window. Use the default credentials for testing:
 Username: 13902972
